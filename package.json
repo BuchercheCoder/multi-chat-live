@@ -1,0 +1,19 @@
+{
+  "name": "multi-chat",
+  "version": "1.0.0",
+  "main": "multi-chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "googleapis": "^159.0.0",
+    "socket.io": "^4.8.1",
+    "tiktok-live-connector": "^2.0.7-beta1",
+    "tmi.js": "^1.8.5"
+  },
+  "description": ""
+}
